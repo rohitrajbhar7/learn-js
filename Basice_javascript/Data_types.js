@@ -21,5 +21,5 @@ let male = true; // boolean datatype
 
 console.log(typeof "Rohit")
 console.log(typeof age);
-console.log(typeof null)
-console.log(typeof undefined)
+console.log(typeof null);
+console.log(typeof undefined);
