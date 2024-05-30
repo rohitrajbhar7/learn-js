@@ -18,7 +18,7 @@ let male = true; // boolean datatype
 // symbol -  A unique and immutable data type often used to identify object properties.
 
 // non-primitive datatypes
-// object, function , date , regular expression , array
+// object, function , date , regular expression , array  
 
 console.log(typeof "Rohit")
 console.log(typeof age);
