@@ -21,7 +21,7 @@ console.log(newString)// to create a substring from the existing string
 
 console.log(GameName.slice(-2,-5))// to know the character on the specified index or key
 
-const user = "     Rohit      "
+const user = "     Rohit  Rajbhar      "
 console.log(user)
 console.log(user.trim()) // trim function just trims the unwanted space bars
 console.log(user.replace(" ", "_")) // it replaces the first count of specified in function

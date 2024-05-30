@@ -1,3 +1,4 @@
+// object :- an object is a complex data structure that allows you to store collections of data and more complex entities. Objects are key-value pairs, where each key (also called a property) maps to a value. The value can be of any data type, including numbers, strings, arrays, other objects, and functions (which are referred to as methods when associated with an object).
 // singleton
 // object.create
 
@@ -33,7 +34,7 @@ const object2 ={
     name: "Rohit",
     Email: "rohitrajb123@gmail.com"
 }
-// Object.freeze(object2)// by using the freeze function you cannot be able to make changes insite the objects
+// Object.freeze(object2)// by using the freeze function you cannot be able to make changes inside the objects
 object2.Email = "Rohitrajb789@gmail.com"
 console.log(object2.Email)
 

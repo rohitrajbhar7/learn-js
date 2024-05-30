@@ -1,7 +1,7 @@
 function myName(){
     console.log("Rohit Rajbhar")
 }
-console.log(myName()) // here myName is defining the function.and () this syntax is for exacution of the function 
+console.log(myName()) // here myName is defining the function.and () this syntax is for execution of the function 
 
 
 function add(num1 , num2){ // when you define the function then it includes parameters

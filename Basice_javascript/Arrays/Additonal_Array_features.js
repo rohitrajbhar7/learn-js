@@ -1,3 +1,5 @@
+// arrays are a special type of object. an array is a data structure that holds a collection of items.
+//  Arrays can hold mixed data types.
 const marvel =[ "Ironman", "Thor", "Captain America"]
 const dc = ["Batman", "Superman" , "Flash"]
 
