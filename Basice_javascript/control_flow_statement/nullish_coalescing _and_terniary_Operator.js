@@ -3,11 +3,11 @@ let name = null;// or undefined
 let defaultName = "Anonymous";
 
 let displayName = name ?? defaultName;  // nullish coalescing expression
-console.log(displayName); // Output: "Anonymous"
+console.log(displayName); 
 
 
 
 // The ternary operator, also known as the conditional operator, is a concise way to perform conditional logic in JavaScript. It is the only operator in JavaScript that takes three operands. The ternary operator is often used as a shorthand for the if-else statement.
 let age = 18;
 let isAdult = (age >= 18) ? "Yes" : "No";
-console.log(isAdult); // Output: "Yes"
+console.log(isAdult);
