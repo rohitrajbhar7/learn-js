@@ -13,3 +13,4 @@ switch ( month="jan") {
         console.log("none of the above")
         break;
 }
+// ** suppose you dont use the break keyword then all the below cases will run except the default case
